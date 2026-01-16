@@ -1,26 +1,14 @@
-Calculator
----
-<img src="Logotype primary.png" width="60%" height="60%" />
+Instructions for deploy
 
-Created with *create-react-app*. See the [full create-react-app guide](https://github.com/facebookincubator/create-react-app/blob/master/packages/react-scripts/template/README.md).
+1. Fork project react_calculator to your github
 
+//for Ububntu OS
+2. apt install npm
 
+3. on directory where the project has been cloned, run npm install to install react framework
 
-Try It
----
+4. npm start
 
-[ahfarmer.github.io/calculator](https://ahfarmer.github.io/calculator/)
+5. Go to localhost:3000
 
-
-
-Install
----
-
-`npm install`
-
-
-
-Usage
----
-
-`npm start`
+Enjoy using Calculator
